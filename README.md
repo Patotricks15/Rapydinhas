@@ -9,9 +9,15 @@ Minha sugestão é que vocês usem a criatividade para ir além de uma "rapydinh
 
 Em breve:
 02 - Duas maneiras de fazer regressão linear (Numpy e Scikit-learn)
+
 03 - Calendário mensal e anual usando a biblioteca Calendar
+
 04 - Encurtador de links
+
 05 - Web scraping
+
 06 - Nuvem de palavras
+
 07 - Extrair dados de um arquivo pdf
+
 08 - Horário mundial
