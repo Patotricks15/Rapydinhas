@@ -1,4 +1,9 @@
 # Rapydinhas (lê-se "rapidinhas")
+
+<p align="center">
+  <img src="https://github.com/Patotricks15/Rapydinhas/blob/main/Rapydinhas%20OFICIAL.png" width="50%" title="hover text">
+</p>
+
 O objetivo desse repositório é trazer códigos simples, fáceis, úteis e, principalmente, **curtos**.
 
 Todos os códigos se encontrarão no site Repl.it, lá você pode rodar e baixar os arquivos utilizados no código. Aqui no Github deixarei apenas o script, sem os arquivos adicionais (nem todos os códigos irão precisar, é claro).
