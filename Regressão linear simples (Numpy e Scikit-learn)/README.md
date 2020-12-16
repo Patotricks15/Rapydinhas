@@ -12,6 +12,8 @@ Esse é o segundo script da série Rapydinhas. Aqui eu faço um código para plo
 
 [Documentação do Scikit-learn](https://scikit-learn.org/stable/)
 
+Tutorial no Medium (Em breve)
+
 # Desafios
 
 1. Use a biblioteca **matplotlib** para fazer as seguintes modificações: Tamanho do gráfico, escrever a equação de regressão dentro do gráfico e retirar bordas
