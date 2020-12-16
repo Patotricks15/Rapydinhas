@@ -1,5 +1,9 @@
 # Duas maneiras de fazer uma Regressao linear simples
 
+<p align="center">
+  <img src="https://github.com/Patotricks15/Rapydinhas/blob/main/Regress%C3%A3o%20linear%20simples%20(Numpy%20e%20Scikit-learn)/Rapydinhas%20%2302.png" width="50%" title="hover text">
+</p>
+
 Esse é o segundo script da série Rapydinhas. Aqui eu faço um código para plotar uma regressão linear simples, porém mostro duas maneiras diferentes de fazer. Uma, usando a biblioteca Numpy, a outra usando a biblioteca Scikit-learn
 
 [Link do notebook:](https://colab.research.google.com/drive/1L-s9zVK6URe-MB9GL6Vx41pTyZfxz8rY#scrollTo=9P6fg6jpfxMl)
