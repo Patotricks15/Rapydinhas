@@ -8,7 +8,7 @@ Veja como detectar faces em fotos usando a biblioteca OpenCV e o modelo Haar Cas
 
 [Documentação OpenCV com Python](https://github.com/Patotricks15/Rapydinhas/blob/main/Detec%C3%A7%C3%A3o%20de%20faces%20(OpenCV%20%2B%20Haar%20Cascade)/opencv-python-tutroals-readthedocs-io-en-latest.pdf)
 
-Tutorial no Medium (Em breve)
+[Tutorial no Medium](https://patrickufrrj.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-modelo-haar-cascade-485bc1bcb368)
 
 ## Desafios
 
