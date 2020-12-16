@@ -9,7 +9,7 @@ Alguns códigos (os que precisarão de arquivos) estarão no site Repl.it, lá v
 
 Minha sugestão é que vocês usem a criatividade para ir além de uma "rapydinha". Usando condicionais, estruturas de repetição, gráficos, e todo arsenal de vocês para desenvolverem códigos a partir dos desenvolvidos aqui, ficarei muito feliz e satisfeito em poder contribuir para o aprendizado de vocês. Deixarei uma espécie de desafios em cada código, e minha maneira de resolver estará num notebook que em breve disponibilizarei. Além disso, publicarei no Medium o tutorial de cada script.
 
-##Códigos
+## Códigos
 
 01 - [Detecção de faces com OpenCV: modelo Haar Cascade](https://github.com/Patotricks15/Rapydinhas/tree/main/Detec%C3%A7%C3%A3o%20de%20faces%20(OpenCV%20%2B%20Haar%20Cascade))
 
