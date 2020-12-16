@@ -1,5 +1,9 @@
 # Detecção de faces com OpenCV: modelo Haar Cascade
 
+<p align="center">
+  <img src="https://github.com/Patotricks15/Rapydinhas/blob/main/Detec%C3%A7%C3%A3o%20de%20faces%20(OpenCV%20%2B%20Haar%20Cascade)/Rapydinhas%20%2301.png" width="50%" title="hover text">
+</p>
+
 Veja como detectar faces em fotos usando a biblioteca OpenCV e o modelo Haar Cascade
 
 [Script no Repl.it](https://repl.it/@Patotricks15/DeteccaofacesHaarcascade-Rapydinhas-01#main.py) (Já prontinho para rodar)
