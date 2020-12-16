@@ -7,9 +7,9 @@ Minha sugestão é que vocês usem a criatividade para ir além de uma "rapydinh
 
 01 - [Detecção de faces com OpenCV: modelo Haar Cascade](https://github.com/Patotricks15/Rapydinhas/tree/main/Detec%C3%A7%C3%A3o%20de%20faces%20(OpenCV%20%2B%20Haar%20Cascade)) - 9 linhas de código
 
-Em breve (sujeito a mudanças):
+02 - [Duas maneiras de fazer regressão linear (Numpy e Scikit-learn)](https://github.com/Patotricks15/Rapydinhas/tree/main/Regress%C3%A3o%20linear%20simples%20(Numpy%20e%20Scikit-learn))
 
-02 - Duas maneiras de fazer regressão linear (Numpy e Scikit-learn)
+Em breve (sujeito a mudanças):
 
 03 - Calendário mensal e anual usando a biblioteca Calendar
 
