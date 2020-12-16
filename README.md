@@ -7,7 +7,8 @@ Minha sugestão é que vocês usem a criatividade para ir além de uma "rapydinh
 
 01 - [Detecção de faces com OpenCV: modelo Haar Cascade](https://repl.it/@Patotricks15/DeteccaofacesHaarcascade-Rapydinhas-01) - 9 linhas de código
 
-Em breve:
+Em breve (sujeito a mudanças):
+
 02 - Duas maneiras de fazer regressão linear (Numpy e Scikit-learn)
 
 03 - Calendário mensal e anual usando a biblioteca Calendar
