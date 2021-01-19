@@ -16,6 +16,8 @@ Esse é o segundo script da série Rapydinhas. Aqui eu faço um código para plo
 
 [Documentação do Scikit-learn](https://scikit-learn.org/stable/)
 
+[Em inglês, no Kaggle](https://www.kaggle.com/patrickgomes/2-ways-to-create-a-simple-linear-regression)
+
 Tutorial no Medium (Em breve)
 
 # Desafios
